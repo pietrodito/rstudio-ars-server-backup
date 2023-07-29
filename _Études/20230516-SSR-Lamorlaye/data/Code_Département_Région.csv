@@ -1,0 +1,102 @@
+Code,Département,Région
+001,Ain,Auvergne-Rhône-Alpes
+002,Aisne,Hauts-de-France
+003,Allier,Auvergne-Rhône-Alpes
+004,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur
+005,Hautes-Alpes,Provence-Alpes-Côte d'Azur
+006,Alpes-Maritimes,Provence-Alpes-Côte d'Azur
+007,Ardèche,Auvergne-Rhône-Alpes
+008,Ardennes,Grand Est
+009,Ariège,Occitanie
+010,Aube,Grand Est
+011,Aude,Occitanie
+012,Aveyron,Occitanie
+013,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur
+014,Calvados,Normandie
+015,Cantal,Auvergne-Rhône-Alpes
+016,Charente,Nouvelle-Aquitaine
+017,Charente-Maritime,Nouvelle-Aquitaine
+018,Cher,Centre-Val de Loire
+019,Corrèze,Nouvelle-Aquitaine
+02A,Corse-du-Sud,Corse
+02B,Haute-Corse,Corse
+021,Côte-d'Or,Bourgogne-Franche-Comté
+022,Côtes d'Armor,Bretagne
+023,Creuse,Nouvelle-Aquitaine
+024,Dordogne,Nouvelle-Aquitaine
+025,Doubs,Bourgogne-Franche-Comté
+026,Drôme,Auvergne-Rhône-Alpes
+027,Eure,Normandie
+028,Eure-et-Loir,Centre-Val de Loire
+029,Finistère,Bretagne
+030,Gard,Occitanie
+031,Haute-Garonne,Occitanie
+032,Gers,Occitanie
+033,Gironde,Nouvelle-Aquitaine
+034,Hérault,Occitanie
+035,Ille-et-Vilaine,Bretagne
+036,Indre,Centre-Val de Loire
+037,Indre-et-Loire,Centre-Val de Loire
+038,Isère,Auvergne-Rhône-Alpes
+039,Jura,Bourgogne-Franche-Comté
+040,Landes,Nouvelle-Aquitaine
+041,Loir-et-Cher,Centre-Val de Loire
+042,Loire,Auvergne-Rhône-Alpes
+043,Haute-Loire,Auvergne-Rhône-Alpes
+044,Loire-Atlantique,Pays de la Loire
+045,Loiret,Centre-Val de Loire
+046,Lot,Occitanie
+047,Lot-et-Garonne,Nouvelle-Aquitaine
+048,Lozère,Occitanie
+049,Maine-et-Loire,Pays de la Loire
+050,Manche,Normandie
+051,Marne,Grand Est
+052,Haute-Marne,Grand Est
+053,Mayenne,Pays de la Loire
+054,Meurthe-et-Moselle,Grand Est
+055,Meuse,Grand Est
+056,Morbihan,Bretagne
+057,Moselle,Grand Est
+058,Nièvre,Bourgogne-Franche-Comté
+059,Nord,Hauts-de-France
+060,Oise,Hauts-de-France
+061,Orne,Normandie
+062,Pas-de-Calais,Hauts-de-France
+063,Puy-de-Dôme,Auvergne-Rhône-Alpes
+064,Pyrénées-Atlantiques,Nouvelle-Aquitaine
+065,Hautes-Pyrénées,Occitanie
+066,Pyrénées-Orientales,Occitanie
+067,Bas-Rhin,Grand Est
+068,Haut-Rhin,Grand Est
+069,Rhône,Auvergne-Rhône-Alpes
+070,Haute-Saône,Bourgogne-Franche-Comté
+071,Saône-et-Loire,Bourgogne-Franche-Comté
+072,Sarthe,Pays de la Loire
+073,Savoie,Auvergne-Rhône-Alpes
+074,Haute-Savoie,Auvergne-Rhône-Alpes
+075,Paris,Île-de-France
+076,Seine-Maritime,Normandie
+077,Seine-et-Marne,Île-de-France
+078,Yvelines,Île-de-France
+079,Deux-Sèvres,Nouvelle-Aquitaine
+080,Somme,Hauts-de-France
+081,Tarn,Occitanie
+082,Tarn-et-Garonne,Occitanie
+083,Var,Provence-Alpes-Côte d'Azur
+084,Vaucluse,Provence-Alpes-Côte d'Azur
+085,Vendée,Pays de la Loire
+086,Vienne,Nouvelle-Aquitaine
+087,Haute-Vienne,Nouvelle-Aquitaine
+088,Vosges,Grand Est
+089,Yonne,Bourgogne-Franche-Comté
+090,Territoire de Belfort,Bourgogne-Franche-Comté
+091,Essonne,Île-de-France
+092,Hauts-de-Seine,Île-de-France
+093,Seine-St-Denis,Île-de-France
+094,Val-de-Marne,Île-de-France
+095,Val-D'Oise,Île-de-France
+971,Guadeloupe,Guadeloupe
+972,Martinique,Martinique
+973,Guyane,Guyane
+974,La Réunion,La Réunion
+976,Mayotte,Mayotte

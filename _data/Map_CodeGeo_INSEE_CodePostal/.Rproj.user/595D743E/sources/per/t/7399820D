@@ -1,0 +1,28 @@
+{
+    "id": "7399820D",
+    "path": "~/_data/Map_CodeGeo_INSEE_CodePostal/R/script.R",
+    "project_path": "R/script.R",
+    "type": "r_source",
+    "hash": "961875274",
+    "contents": "",
+    "dirty": false,
+    "created": 1684331007841.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,0",
+        "scrollLine": "12",
+        "marks": "<:20,21\n>:20,21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684331582,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684331582698,
+    "read_only": false,
+    "read_only_alternatives": []
+}

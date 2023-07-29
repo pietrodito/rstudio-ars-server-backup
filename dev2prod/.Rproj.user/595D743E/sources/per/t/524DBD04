@@ -1,0 +1,27 @@
+{
+    "id": "524DBD04",
+    "path": "~/own_packages/dev2prod/R/push_into_prod.R",
+    "project_path": "R/push_into_prod.R",
+    "type": "r_source",
+    "hash": "1817394671",
+    "contents": "",
+    "dirty": false,
+    "created": 1686921893677.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "marks": "<:0,0\n>:0,0",
+        "cursorPosition": "12,56",
+        "scrollLine": "5"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1687853930,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687853930504,
+    "read_only": false,
+    "read_only_alternatives": []
+}

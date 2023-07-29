@@ -1,0 +1,4 @@
+cd ~/DIVALO
+R CMD INSTALL --preclean --no-multiarch --with-keep.source ovalide
+R CMD INSTALL --preclean --no-multiarch --with-keep.source ovalideTableDesigner
+R CMD INSTALL --preclean --no-multiarch --with-keep.source ovalideScoreTabSet

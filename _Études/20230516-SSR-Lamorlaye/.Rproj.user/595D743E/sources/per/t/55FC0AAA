@@ -1,0 +1,28 @@
+{
+    "id": "55FC0AAA",
+    "path": "~/20230516-SSR-Lamorlaye/R/06-taux-occupation.R",
+    "project_path": "R/06-taux-occupation.R",
+    "type": "r_source",
+    "hash": "1096953050",
+    "contents": "",
+    "dirty": false,
+    "created": 1685043333301.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "37,63",
+        "scrollLine": "0",
+        "marks": "<:19,49\n>:19,49"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1684853523,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1684853523,
+    "read_only": false,
+    "read_only_alternatives": []
+}

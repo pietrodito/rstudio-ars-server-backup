@@ -1,0 +1,28 @@
+{
+    "id": "CA2AD01D",
+    "path": "~/20233105-Activité-Ets-HDF-ATIH/script/had.R",
+    "project_path": "script/had.R",
+    "type": "r_source",
+    "hash": "2276470285",
+    "contents": "",
+    "dirty": false,
+    "created": 1685542567374.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,0",
+        "scrollLine": "0",
+        "marks": "<:20,73\n>:21,70"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685610180,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685610180926,
+    "read_only": false,
+    "read_only_alternatives": []
+}

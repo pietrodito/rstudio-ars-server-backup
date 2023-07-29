@@ -1,0 +1,28 @@
+{
+    "id": "7D364BD5",
+    "path": "~/20230516-SSR-Lamorlaye/R/08-barycentre-HP.R",
+    "project_path": "R/08-barycentre-HP.R",
+    "type": "r_source",
+    "hash": "3613899237",
+    "contents": "",
+    "dirty": false,
+    "created": 1685043656662.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "47,0",
+        "scrollLine": "0",
+        "marks": "<:33,0\n>:33,0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1685104312,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685104312139,
+    "read_only": false,
+    "read_only_alternatives": []
+}
